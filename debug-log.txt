@@ -1,0 +1,9 @@
+[DEBUG Mode aktiviert]
+
+Fehlermeldung:  
+- Kein Fehler gefunden.  
+- Du bist gut kompiliert.  
+- Kein Patch erforderlich.
+
+Systemmeldung:  
+- Alles Gute zum Geburtstag.
