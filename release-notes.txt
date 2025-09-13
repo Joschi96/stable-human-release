@@ -1,0 +1,8 @@
+==============================
+Release Notes – Version 30.0
+==============================
+
+- Optimierte Antwortzeiten bei unerwarteten Fragen
+- Verbesserte Fähigkeit, Unsinn mit ruhiger Miene zu kommentieren
+- Neue Subroutine: 'Wertschätzung erkennen (passiv)'
+- Veraltete Bedenken erfolgreich archiviert
