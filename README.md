@@ -28,5 +28,13 @@ Falls du heute feierst: Iss Kuchen, als wäre es ein Commit.
 // Hinweis: Kein Backup nötig. Du bist schon gut gesichert.
 
 ---
+## File structure
+```bash
+/stable-human-release
+├── README.md
+├── main.py
+├── release-notes.txt
+└── debug-log.txt
+```
 
 ➡️ Siehe auch: [`debug-log.txt`](./debug-log.txt) · [`release-notes.txt`](./release-notes.txt) · [`main.py`](./main.py)
